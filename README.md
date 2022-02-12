@@ -3,6 +3,3 @@
 <a href="https://rojansapkota.com.np/">
          <img alt="Image" src="https://image.thum.io/get/https://rojangamingyt.github.io/3d-carousel/">
       </a>
-<img src="//image.thum.io/get/width/100/crop/600/http://www.google.com/" />
-
-
